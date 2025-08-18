@@ -22,10 +22,11 @@ todo: add demo url here
 todo: add screencap here
 
 ## Features
-* Fully functional live AI responses using Gemini API
-* Recent chats are saved via local storage
-* Dynamic typing effect while generating responses in real time
-* Fast performance with Vite + React
+* Fully functional live AI responses using Gemini API.
+* Recent chats are saved via local storage.
+* Dynamic typing effect while generating responses in real time.
+* Fully responsive design optimized for mobile, tablet, and desktop with adaptive UI scaling.
+* Fast performance with Vite + React.
 
 
 ## Credits & Licensing
