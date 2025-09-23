@@ -13,13 +13,8 @@ yarn dev
 pnpm dev
 ```
 
-## Live Demo
-
-todo: add demo url here
-
-## Preview
-
-todo: add screencap here
+## Demo
+[![tg-image-2066889511.png](https://i.postimg.cc/CMn99smh/tg-image-2066889511.png)](https://postimg.cc/xqYszHwh)
 
 ## Features
 * Fully functional live AI responses using Gemini API.
